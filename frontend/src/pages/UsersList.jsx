@@ -26,17 +26,18 @@ const UsersList = ({users}) => {
           <Tab label='退勤'/>
         </Tabs>
       </Box>
-      <Grid container m={'0 350px 0 350px'}>
+      <Box sx={{ maxWidth: '700px', mx: 'auto' }}>
+        <Grid container spacing={2} direction="column" >
         {users
           .filter((data) => Number(data.status) === value)
           .map((data, index) => (
-            <Grid size={12} mb={2} key={index}>
+            <Grid item xs={12} key={index}>
               <Item>{data.name}</Item>
             </Grid>
           ))}
-      </Grid>
-      
-      
+       </Grid>
+        
+      </Box >      
     </Box>
   );
 };

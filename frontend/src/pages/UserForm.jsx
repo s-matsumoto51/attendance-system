@@ -47,14 +47,14 @@ export const UserForm =({fetchUsers})=>{
                             </Box>
                         </Grid>
                         <Grid size={9} sx={{}}>
-                            <Box p={'30px'}>
+                            <Box p={'30px 100px 30px 30px'}>
                                 <TextField
                                     name={data.name}
                                     id="outlined-multiline-flexible"
                                     label={data.title}
                                     multiline
                                     maxRows={4}
-                                    sx={{width:'500px'}}
+                                    fullWidth
                                     onChange={handleChange}
                                 />
                             </Box>
