@@ -129,3 +129,4 @@ C:\Users\shunsuke_matsumoto\Desktop\Apiren\backend\obj\Debug\net8.0\refint\backe
 C:\Users\shunsuke_matsumoto\Desktop\Apiren\backend\obj\Debug\net8.0\backend.pdb
 C:\Users\shunsuke_matsumoto\Desktop\Apiren\backend\obj\Debug\net8.0\backend.genruntimeconfig.cache
 C:\Users\shunsuke_matsumoto\Desktop\Apiren\backend\obj\Debug\net8.0\ref\backend.dll
+C:\Users\shunsuke_matsumoto\Desktop\Apiren\backend\obj\Debug\net8.0\backend.sourcelink.json
