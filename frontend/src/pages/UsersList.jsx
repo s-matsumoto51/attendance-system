@@ -36,7 +36,6 @@ const UsersList = ({users}) => {
             </Grid>
           ))}
        </Grid>
-        
       </Box >      
     </Box>
   );
