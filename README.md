@@ -36,19 +36,19 @@ backend/    # .NET Core Web API
 
 [画面]
 ・ログイン画面
-https://github.com/s-matsumoto51/attendance-system/blob/main/frontend/src/assets/Login.png
+![image](https://github.com/s-matsumoto51/attendance-system/blob/main/frontend/src/assets/Login.png)
 
 ・出勤ボタン画面
-https://github.com/s-matsumoto51/attendance-system/blob/main/frontend/src/assets/attendance.png
+![image](https://github.com/s-matsumoto51/attendance-system/blob/main/frontend/src/assets/attendance.png)
 
 ・ユーザー一覧（出勤中）
-https://github.com/s-matsumoto51/attendance-system/blob/main/frontend/src/assets/attendance1.png
+![image](https://github.com/s-matsumoto51/attendance-system/blob/main/frontend/src/assets/attendance1.png)
 
 ・ユーザー一覧（退勤中）
-https://github.com/s-matsumoto51/attendance-system/blob/main/frontend/src/assets/leaving.png
+![image](https://github.com/s-matsumoto51/attendance-system/blob/main/frontend/src/assets/leaving.png)
 
 ・アカウント登録
-https://github.com/s-matsumoto51/attendance-system/blob/main/frontend/src/assets/userForm.png
+![image](https://github.com/s-matsumoto51/attendance-system/blob/main/frontend/src/assets/userForm.png)
 
 
 
